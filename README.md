@@ -1,8 +1,13 @@
 # NVDA Technical Analyst Agent
 author：BO HUANG
 
-Quick view (no running required)
-HTML report: Bo_Huang_Tech_project/sample_outputs/outputs/NVDA_investment_report.html
+### Quick view (no running required)
+- **HTML report:** [`Bo_Huang_Tech_project/sample_outputs/outputs/NVDA_investment_report.html`](./Bo_Huang_Tech_project/sample_outputs/outputs/NVDA_investment_report.html)
+To view the report:
+1. Click the file  
+2. Download  
+3. Open locally in a web browser  
+_No code execution or environment setup required._
 
 ## 1) Project Goal & Output Files
 This project builds a reproducible technical-analysis backtesting and reporting pipeline for NVDA.
